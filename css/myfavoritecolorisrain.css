@@ -4,13 +4,14 @@ html {
 }
 
 body {
-	background: #00000;
+	background: #ffffff;
 	color: #4ead44;
 	font-size: 12pt;
 	font-family: courier new;
 	text-align: left;
 	padding: 0;
 	margin: 0
+}
 
 a {
 	color: #45ff30
